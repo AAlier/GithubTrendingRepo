@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="certResName">com.demo.githubtrend:raw/cert</string>
+    <string name="serverHost">api.github.com</string>
+    <integer name="serverPort">0</integer>
+    <bool name="enableSsl">true</bool>
+</resources>
